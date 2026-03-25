@@ -5,4 +5,4 @@ def division ():
 
 
 if __name__ == "__main__":
-    division()
+    division ()
